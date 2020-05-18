@@ -5,3 +5,5 @@ This is an independent project created by me under the guidance of Jeff Hsu. The
 The link to the game is https://snakes-and-steaks.gitlab.io/snake.
 
 Have fun!
+
+Note: The game currently has bugs from merge conflicts 
