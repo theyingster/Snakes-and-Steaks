@@ -6,4 +6,6 @@ The link to the game is https://snakes-and-steaks.gitlab.io/snake.
 
 Have fun!
 
-Note: The game currently has bugs from merge conflicts 
+Note: 
+1. The game currently has bugs from merge conflicts 
+2. Original code stored on Gitlab on https://gitlab.com/snakes-and-steaks/snake
