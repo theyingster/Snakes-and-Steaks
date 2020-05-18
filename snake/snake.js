@@ -5,14 +5,10 @@ var game = new Phaser.Game(length, width, Phaser.AUTO, 'phaser-example', {
 
 function preload() {
     game.load.spritesheet('snake', 'assets/games/snake/snake.png', 40, 40);
-    /*game.load.image('enemyBullet', 'assets/games/snake/enemy-bullet.png');
-    game.load.spritesheet('invader', 'assets/games/snake/invader32x32x4.png', 32, 32);
-    game.load.image('ship', 'assets/games/snake/player.png');
-    game.load.spritesheet('kaboom', 'assets/games/snake/explode.png', 128, 128);
-    game.load.image('starfield', 'assets/games/snake/starfield.png');*/
     game.load.image('background', 'assets/games/snake/background.jpg');
     game.load.image('steak', 'assets/games/snake/steak.jpg');
     game.load.image('pill', 'assets/games/snake/pill.jpg');
+    game.load.image('snakeBody', 'assets/games/snake/snakeBody.jpg');
 }
 
 var snake;
